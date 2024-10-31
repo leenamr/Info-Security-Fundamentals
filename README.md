@@ -19,11 +19,6 @@ these tasks, we gain practical knowledge about cybersecurity principles and defe
 2- **MITM Simulation:** Run MITM simulations to intercept unencrypted traffic and apply filters.<br>
 3- **Password Cracking:** Explore SSH dictionary attacks and hash-cracking techniques.<br>
 
-## Files
-**server/:** Scripts for configuring the secure server.<br>
-**mitm/:** Tools and scripts for MITM attack simulation.<br>
-**password_cracking/:** Resources for SSH dictionary attacks and hash-cracking experiments.<br>
-
 ## License
 This project is licensed under the MIT License.
 
