@@ -4,9 +4,9 @@
 This project explores foundational cybersecurity concepts by setting up and securing a web server, simulating Man-in-the-Middle (MITM) attacks, and experimenting with password-cracking techniques. It provides practical experience in understanding and mitigating common security threats.
 
 ## Features
-**Secure Web Server Setup:** Build a secure server hosting a basic webpage with SSL encryption.<br>
-**MITM Attack Simulation:** Simulate a controlled MITM attack to capture and manipulate unencrypted data, demonstrating network vulnerabilities.<br>
-**Password Cracking Exploration:** Test SSH dictionary attacks and hash-cracking techniques to understand and address password security risks.<br>
+- **Secure Web Server Setup:** Build a secure server hosting a basic webpage with SSL encryption.<br>
+- **MITM Attack Simulation:** Simulate a controlled MITM attack to capture and manipulate unencrypted data, demonstrating network vulnerabilities.<br>
+- **Password Cracking Exploration:** Test SSH dictionary attacks and hash-cracking techniques to understand and address password security risks.<br>
 
 ## Project Stages
 1- **Web Server Setup:** Configure a secure web server with SSL encryption.<br>
